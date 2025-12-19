@@ -1,5 +1,3 @@
-<h2 align="left">abdallah-abdiche / README.md</h2>
-
 <table>
   <tr>
     <th>Frontend</th>
