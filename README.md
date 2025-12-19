@@ -2,18 +2,12 @@
 
 <table>
   <tr>
-    <th>Linux & Tools</th>
     <th>Frontend</th>
     <th>Backend</th>
     <th>IDEs & Platforms</th>
     <th>Database</th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" />
-      <img src="https://skillicons.dev/icons?i=bash" />
-      <img src="https://skillicons.dev/icons?i=git" />
-    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html" />
       <img src="https://skillicons.dev/icons?i=css" />
