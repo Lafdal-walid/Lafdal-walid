@@ -14,7 +14,6 @@
       <img src="https://skillicons.dev/icons?i=sass" />
       <img src="https://skillicons.dev/icons?i=ts" />
     </td>
-
     <td align="center">
       <img src="https://skillicons.dev/icons?i=php" />
       <img src="https://skillicons.dev/icons?i=laravel" />
@@ -22,29 +21,22 @@
       <img src="https://skillicons.dev/icons?i=nodejs" />
       <img src="https://skillicons.dev/icons?i=express" />
     </td>
-
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" />
       <img src="https://skillicons.dev/icons?i=idea" />
       <img src="https://skillicons.dev/icons?i=webstorm" />
     </td>
-
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" />
       <img src="https://skillicons.dev/icons?i=sqlite" />
     </td>
   </tr>
 </table>
-
----
-
 ## 📊 My GitHub Activity
 
 <p align="center">
   <img src="https://ghchart.rshah.org/2d333b/abdallah-abdiche" alt="Github chart" />
 </p>
-
----
 
 <p align="center">
   <a href="https://discord.com/users/YOUR_ID">
