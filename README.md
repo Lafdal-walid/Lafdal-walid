@@ -38,11 +38,11 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/YOUR_ID">
+  <a href="https://discord.com/users/wad_laf">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:abdallahabdiche@gmail.com">
+  <a href="mailto:oualidlafdal50@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
