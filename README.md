@@ -32,7 +32,6 @@
     </td>
   </tr>
 </table>
-## 📊 My GitHub Activity
 
 <p align="center">
   <img src="https://ghchart.rshah.org/2d333b/abdallah-abdiche" alt="Github chart" />
